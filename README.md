@@ -8,4 +8,5 @@ une petite modif en local
 et c'est cool
 
 j'ai ajouté une branche, c'est trop cool
-
+un petit conflit ?
+C'est corrigé !
