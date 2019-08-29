@@ -6,3 +6,5 @@ et maintenant une modif de github
 
 une petite modif en local
 et c'est cool
+
+un petit conflit ?
